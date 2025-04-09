@@ -2,11 +2,13 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  
+  ![Snake animation](https://github.com/luccasilva2/luccasilva2/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
 
-### 🛠️ Tecnologias  
+### 🛠️ Tech Stack  
 
 #### Linguagens  
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
@@ -32,36 +34,44 @@
 
 ---
 
-### 📊 Minhas Estatísticas  
+### 📊 GitHub Analytics  
 
 <div align="center">
   <a href="https://github.com/luccasilva2">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasilva2&theme=tokyonight" alt="luccasilva2" />
   </a>
 </div>
 
 ---
 
-### 📱 Projetos  
+### 🚀 Projetos em Destaque  
 
-#### ATIVO - Aplicativo de Gestão Financeira  
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view?usp=drive_link)  
-
-#### ESTUDA.AI - Plataforma de Ensino  
-`🚧 Em desenvolvimento (Flutter)`  
-
-#### SPACE EXPLORER - Jogo de Exploração Espacial  
-`🎮 Java + LibGDX | Em breve`  
+| Projeto | Status | Stack | Link |
+|---------|--------|-------|------|
+| ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
+| ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
+| SPACE EXPLORER | 🔜 Em breve | Java + LibGDX | Em breve |
 
 ---
 
-### 📫 Contato  
+### 📫 Vamos conversar?  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaoliveiralucca@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/47984873740)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccasilva.exe/)  
+<div align="center">
+  <a href="mailto:silvaoliveiralucca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/47984873740">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/luccasilva.exe/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
