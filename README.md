@@ -5,9 +5,7 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 ---
 
 ### 📫 Contato  
-[Email](mailto:silvaoliveiralucca@gmail.com) | [WhatsApp](https://wa.me/47984873740) | [LinkedIn](https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/)
-
----
+[Email](mailto:silvaoliveiralucca@gmail.com) | [WhatsApp](https://wa.me/47984873740) | [LinkedIn](https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/
 
 ### 📊 Linguagens em Destaque  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&theme=tokyonight)
