@@ -36,12 +36,10 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 
 Tenho orgulho de compartilhar um dos meus primeiros projetos mobile, criado com React Native: um aplicativo funcional e leve, focado em usabilidade e desempenho.
 
-[📲 Clique aqui para baixar o APK](https://link-para-teu-apk.com)  
-*(Substitua o link acima pelo real)*
+[📲 Clique aqui para baixar o APK]([https://drive.google.com/drive/folders/1iVPUkBgD6pBA1nAo3YTnmRyVWRPhbCak?usp=drive_link])
 
 **Projeção do App:**  
 Esse app tem potencial para evoluir com novas funcionalidades e ser publicado em lojas como a Play Store. Estou planejando melhorias como autenticação de usuários, integração com banco de dados e notificações push.
-
 ---
 
 ### 💼 Objetivo  
