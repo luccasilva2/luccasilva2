@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/lucca_so.exe/">
+  <a href="https://www.instagram.com/luccaa_so.exe/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
