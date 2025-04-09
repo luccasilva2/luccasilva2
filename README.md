@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 ---
 
 ### 📊 Linguagens em Destaque  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilvaoliveira&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&theme=tokyonight)
 
 ---
 
