@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
-  
-  ![Snake animation](https://github.com/luccasilva2/luccasilva2/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
@@ -52,7 +50,6 @@
 |---------|--------|-------|------|
 | ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
 | ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
-| SPACE EXPLORER | 🔜 Em breve | Java + LibGDX | Em breve |
 
 ---
 
@@ -62,13 +59,13 @@
   <a href="mailto:silvaoliveiralucca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/47984873740">
+  <a href="https://wa.me/+55 47 984873740">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/luccasilva.exe/">
+  <a href="https://www.instagram.com/lucca_so.exe/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
