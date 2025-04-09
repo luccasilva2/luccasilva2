@@ -25,11 +25,9 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 
 **Frameworks & Bibliotecas**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
 
 **Banco de Dados**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
 ---
