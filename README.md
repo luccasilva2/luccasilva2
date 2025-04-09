@@ -10,7 +10,7 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 ---
 
 ### 📊 Linguagens em Destaque  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilvaoliveira&layout=compact&theme=tokyonight)
 
 ---
 
@@ -32,6 +32,18 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 
 ---
 
+### 📱 Meu Aplicativo
+
+Tenho orgulho de compartilhar um dos meus primeiros projetos mobile, criado com React Native: um aplicativo funcional e leve, focado em usabilidade e desempenho.
+
+[📲 Clique aqui para baixar o APK](https://link-para-teu-apk.com)  
+*(Substitua o link acima pelo real)*
+
+**Projeção do App:**  
+Esse app tem potencial para evoluir com novas funcionalidades e ser publicado em lojas como a Play Store. Estou planejando melhorias como autenticação de usuários, integração com banco de dados e notificações push.
+
+---
+
 ### 💼 Objetivo  
 
 Meu objetivo é entrar no mercado de TI, contribuir com soluções inovadoras e crescer junto com projetos desafiadores. Estou aberto a **oportunidades de estágio** e **colaborações** com foco em desenvolvimento.
@@ -41,4 +53,3 @@ Meu objetivo é entrar no mercado de TI, contribuir com soluções inovadoras e 
 ### ⚡ Curiosidade  
 
 Manezinho da Ilha de coração, adoro unir tecnologia com criatividade e praticidade no dia a dia. Bora criar algo juntos?
-
