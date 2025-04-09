@@ -32,15 +32,18 @@ Sou um entusiasta da tecnologia com 17 anos, estudando e desenvolvendo projetos 
 
 ---
 
-### 📱 Meu Aplicativo
+### 📱 Meus Aplicativos prontos e em desenvolvimento
 
-Tenho orgulho de compartilhar um dos meus primeiros projetos mobile, criado com React Native: um aplicativo funcional e leve, focado em usabilidade e desempenho.
+### Ativo - Seu aplicativo para lhe auxiliar com seus gastos
+
+Tenho orgulho de compartilhar um dos meus projetos mobile, criado com React Native: um aplicativo funcional e leve, focado em lhe ajudar com suas finanças.
 
 [📲 Clique aqui para baixar o APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view?usp=drive_link)
 
-**Projeção do App:**  
-Esse app tem potencial para evoluir com novas funcionalidades e ser publicado em lojas como a Play Store. Estou planejando melhorias como autenticação de usuários, integração com banco de dados e notificações push.
----
+### Estuda.ai - Aplicativo focado no ensino geral com conteúdos variados e de fácil aprendizagem
+
+[📲 Clique aqui para baixar o APK]
+(Está em desenvolvimento)
 
 ### 💼 Objetivo  
 
