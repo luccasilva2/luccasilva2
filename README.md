@@ -59,7 +59,7 @@
   <a href="mailto:silvaoliveiralucca@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/+55 47 984873740">
+  <a href="https://wa.me/47984873740">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
