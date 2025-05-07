@@ -1,81 +1,84 @@
-<h1 align="center">🇧🇷 Lucca Silva Oliveira | Dev FullStack</h1>
+<h1 align="center">👨‍💻 Lucca Silva Oliveira</h1>
+<h3 align="center">Desenvolvedor Full Stack | Mobile | Web | Desktop</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F72F&width=500&center=true&vCenter=true&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72F&center=true&vCenter=true&multiline=true&width=600&lines=Olá%2C+sou+o+Lucca+Silva!;Desenvolvedor+Full+Stack+com+foco+em+Mobile;Apaixonado+por+tecnologia+e+resolução+de+problemas." alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Especializado em desenvolvimento mobile com **Flutter** e **React Native**, também atuo com tecnologias **web** e **desktop**. Sempre buscando aprender novas tecnologias e evoluir minhas habilidades.
+Sou um desenvolvedor full stack apaixonado por criar soluções digitais completas, com foco em desenvolvimento **mobile (Flutter, React Native)**, **web (React, Next.js)** e **backend (Node.js, Firebase)**. Atualmente, estou me aprofundando em práticas modernas de DevOps, CI/CD e Clean Architecture.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔷 Linguagens
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="50" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" alt="Python"/>
-</div>
-
-### 🚀 Frameworks & Bibliotecas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
-</div>
-
-### 🗃️ Bancos de Dados
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
-</div>
-
-### 🎨 Design & Ferramentas
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50" alt="Adobe XD"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" alt="VS Code"/>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasilva2&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **ATIVO**  
-  Aplicativo mobile com React Native.  
-  [📥 Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view)
+### 📱 [Estuda.ai](https://github.com/luccasilva2/estudaai)
+> Aplicativo educacional feito em Flutter focado em ajudar estudantes de vestibular a se organizarem e aprenderem com gamificação.
 
-- **ESTUDA.AI**  
-  Aplicativo educacional com Flutter.  
-  🛠️ Em desenvolvimento
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
-## 📫 Vamos Conversar?
+## 📊 GitHub Stats
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaoliveiralucca@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/47984873740)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccaa_so/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&locale=pt-br" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccasilva2&theme=tokyonight&locale=pt-br" width="48%" />
+</p>
+
+---
+
+## 📫 Entre em Contato
+
+<p align="center">
+  <a href="mailto:luccasilvaoliveira3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/luccasilva2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+5543997258846" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧭 Roadmap 2025
+
+- [x] Finalizar projeto educacional com Flutter
+- [x] Refatorar apps com Clean Architecture
+- [ ] Aprender CI/CD com GitHub Actions
+- [ ] Explorar Backend com NestJS
+- [ ] Publicar 3 apps na Play Store
+
+---
+
+## 🏆 Conquistas
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=luccasilva2&theme=onedark&row=1&no-frame=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luccasilva2&label=Visitantes&color=00F72F&style=flat" alt="Profile views" />
+</p>
