@@ -50,4 +50,39 @@
   </a>
 </div>
 
-[Restante do seu conteúdo permanece igual...]
+---
+
+### 🚀 Projetos em Destaque  
+
+| Projeto | Status | Stack | Link |
+|---------|--------|-------|------|
+| ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
+| ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
+
+---
+
+### 📫 Vamos conversar?  
+
+<div align="center">
+  <a href="mailto:silvaoliveiralucca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/47984873740">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/luccaa_so/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luccasilva2&label=Profile%20views&color=00f72f&style=flat" alt="luccasilva2" />
+  <a href="https://github.com/luccasilva2?tab=followers">
+    <img src="https://img.shields.io/github/followers/luccasilva2?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
