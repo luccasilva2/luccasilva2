@@ -1,88 +1,20 @@
-# 🇧🇷 Lucca Silva Oliveira | Dev FullStack  
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
-</div>
-
----
-
-### 🛠️ Tech Stack  
-
-#### Linguagens  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #ED8B00);" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #0175C2);" alt="Dart" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #F7DF1E);" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #007ACC);" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #3776AB);" alt="Python" title="Python"/>
-</div>
-
-#### Frameworks & Bibliotecas  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #02569B);" alt="Flutter" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #61DAFB);" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #61DAFB); transform: scale(0.9);" alt="React Native" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #43853D);" alt="Node.js" title="Node.js"/>
-</div>
-
-#### Bancos de Dados  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #FFCA28);" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #005C84);" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #4EA94B);" alt="MongoDB" title="MongoDB"/>
-</div>
-
-#### Design & Ferramentas  
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #F24E1E);" alt="Figma" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #470137);" alt="Adobe XD" title="Adobe XD"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #F05032);" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" style="object-fit: contain; filter: drop-shadow(0 0 5px #007ACC);" alt="VS Code" title="VS Code"/>
-</div>
-
----
-
-### 📊 GitHub Analytics  
-<div align="center">
-  <a href="https://github.com/luccasilva2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-### 🚀 Projetos em Destaque  
-
-| Projeto | Status | Stack | Link |
-|---------|--------|-------|------|
-| ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
-| ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
-
----
-
-### 📫 Vamos conversar?  
-
-<div align="center">
-  <a href="mailto:silvaoliveiralucca@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/47984873740">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/luccaa_so/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luccasilva2&label=Profile%20views&color=00f72f&style=flat" alt="luccasilva2" />
-  <a href="https://github.com/luccasilva2?tab=followers">
-    <img src="https://img.shields.io/github/followers/luccasilva2?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</div>
+🇧🇷 Lucca Silva Oliveira | Dev FullStack
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F72F&width=500&center=true&vCenter=true&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /> </div>
+🚀 Sobre Mim
+<div align="center"> <p style="font-size: 1.1rem; max-width: 800px; margin: 0 auto;"> Desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Especializado em desenvolvimento mobile com Flutter e React Native, mas também atuando com tecnologias web e desktop. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades. </p> </div>
+🛠️ Tech Stack
+🔷 Linguagens
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 25px 0;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #ED8B00); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Java" title="Java"/> <p style="margin-top: 8px; font-weight: 600;">Java</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #0175C2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Dart" title="Dart"/> <p style="margin-top: 8px; font-weight: 600;">Dart</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #F7DF1E); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="JavaScript" title="JavaScript"/> <p style="margin-top: 8px; font-weight: 600;">JavaScript</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #007ACC); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="TypeScript" title="TypeScript"/> <p style="margin-top: 8px; font-weight: 600;">TypeScript</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #3776AB); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Python" title="Python"/> <p style="margin-top: 8px; font-weight: 600;">Python</p> </div> </div>
+🚀 Frameworks & Bibliotecas
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 25px 0;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #02569B); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Flutter" title="Flutter"/> <p style="margin-top: 8px; font-weight: 600;">Flutter</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #61DAFB); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="React" title="React"/> <p style="margin-top: 8px; font-weight: 600;">React</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #61DAFB); transform: scale(0.9); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1)'" onmouseout="this.style.transform='scale(0.9)'" alt="React Native" title="React Native"/> <p style="margin-top: 8px; font-weight: 600;">React Native</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #43853D); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Node.js" title="Node.js"/> <p style="margin-top: 8px; font-weight: 600;">Node.js</p> </div> </div>
+🗃️ Bancos de Dados
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 25px 0;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #FFCA28); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Firebase" title="Firebase"/> <p style="margin-top: 8px; font-weight: 600;">Firebase</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #005C84); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="MySQL" title="MySQL"/> <p style="margin-top: 8px; font-weight: 600;">MySQL</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #4EA94B); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="MongoDB" title="MongoDB"/> <p style="margin-top: 8px; font-weight: 600;">MongoDB</p> </div> </div>
+🎨 Design & Ferramentas
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 25px 0;"> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #F24E1E); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Figma" title="Figma"/> <p style="margin-top: 8px; font-weight: 600;">Figma</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #470137); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Adobe XD" title="Adobe XD"/> <p style="margin-top: 8px; font-weight: 600;">Adobe XD</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #F05032); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="Git" title="Git"/> <p style="margin-top: 8px; font-weight: 600;">Git</p> </div> <div style="text-align: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80" height="80" style="object-fit: contain; filter: drop-shadow(0 0 8px #007ACC); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" alt="VS Code" title="VS Code"/> <p style="margin-top: 8px; font-weight: 600;">VS Code</p> </div> </div>
+📊 GitHub Analytics
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 30px 0;"> <a href="https://github.com/luccasilva2"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luccasilva2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00F72F&icon_color=00F72F&text_color=FFFFFF"/> </a> <a href="https://github.com/luccasilva2"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasilva2&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F72F&text_color=FFFFFF"/> </a> <a href="https://github.com/luccasilva2"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasilva2&theme=tokyonight&hide_border=true&background=00000000&stroke=00F72F&ring=00F72F&fire=00F72F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/> </a> </div>
+🚀 Projetos em Destaque
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;"> <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 247, 47, 0.2);"> <h3 style="color: #00F72F; margin-top: 0;">ATIVO</h3> <p style="color: #FFFFFF;">Aplicativo mobile desenvolvido com React Native</p> <div style="display: flex; align-items: center; margin-top: 15px;"> <span style="background-color: #00F72F; color: #000; padding: 3px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: bold;">🚀 Lançado</span> <a href="https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view" style="margin-left: auto; color: #00F72F; text-decoration: none; font-weight: bold;">Download APK →</a> </div> </div> <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0, 247, 47, 0.2);"> <h3 style="color: #00F72F; margin-top: 0;">ESTUDA.AI</h3> <p style="color: #FFFFFF;">Aplicativo educacional desenvolvido com Flutter</p> <div style="display: flex; align-items: center; margin-top: 15px;"> <span style="background-color: #FFA500; color: #000; padding: 3px 8px; border-radius: 12px; font-size: 0.8rem; font-weight: bold;">🛠️ Em desenvolvimento</span> <span style="margin-left: auto; color: #888; font-weight: bold;">Em breve</span> </div> </div> </div>
+📫 Vamos conversar?
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;"> <a href="mailto:silvaoliveiralucca@gmail.com" style="text-decoration: none;"> <div style="display: flex; align-items: center; background: linear-gradient(135deg, #D14836 0%, #B03A2E 100%); padding: 10px 20px; border-radius: 30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" height="24" style="margin-right: 8px; filter: brightness(0) invert(1);"/> <span style="color: white; font-weight: bold;">Gmail</span> </div> </a> <a href="https://wa.me/47984873740" style="text-decoration: none;"> <div style="display: flex; align-items: center; background: linear-gradient(135deg, #25D366 0%, #128C7E 100%); padding: 10px 20px; border-radius: 30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="24" height="24" style="margin-right: 8px; filter: brightness(0) invert(1);"/> <span style="color: white; font-weight: bold;">WhatsApp</span> </div> </a> <a href="https://www.linkedin.com/in/lucca-silva-oliveira-6919bb33b/" style="text-decoration: none;"> <div style="display: flex; align-items: center; background: linear-gradient(135deg, #0077B5 0%, #005582 100%); padding: 10px 20px; border-radius: 30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" style="margin-right: 8px; filter: brightness(0) invert(1);"/> <span style="color: white; font-weight: bold;">LinkedIn</span> </div> </a> <a href="https://www.instagram.com/luccaa_so/" style="text-decoration: none;"> <div style="display: flex; align-items: center; background: linear-gradient(135deg, #E4405F 0%, #C13584 100%); padding: 10px 20px; border-radius: 30px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="24" height="24" style="margin-right: 8px; filter: brightness(0) invert(1);"/> <span style="color: white; font-weight: bold;">Instagram</span> </div> </a> </div>
+<div align="center" style="margin-top: 40px;"> <img src="https://komarev.com/ghpvc/?username=luccasilva2&label=Profile%20views&color=00f72f&style=flat" alt="luccasilva2" /> <a href="https://github.com/luccasilva2?tab=followers" style="text-decoration: none;"> <img src="https://img.shields.io/github/followers/luccasilva2?label=Followers&style=social" alt="GitHub Followers" style="margin-left: 10px;"/> </a> </div><div align="center" style="margin-top: 20px;"> <p style="color: #888; font-size: 0.9rem;">✨ Obrigado pela visita! ✨</p> </div><style> .header { background: linear-gradient(135deg, #00F72F 0%, #008C45 100%); padding: 2rem; border-radius: 10px; margin-bottom: 2rem; text-align: center; } </style>
