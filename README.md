@@ -35,7 +35,7 @@
 #### Design  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&style=flat-square&shape=circle" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6&style=flat-square&shape=circle" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6&style=circle&shape=circle" alt="Adobe XD" />
 </div>
 
 ---
