@@ -1,7 +1,7 @@
 # 🇧🇷 Lucca Silva Oliveira | Dev FullStack  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;17+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72F&width=435&lines=Desenvolvedor+Full+Stack;Mobile+%7C+Web+%7C+Desktop;18+anos+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
 ---
