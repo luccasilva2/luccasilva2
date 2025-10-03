@@ -6,6 +6,16 @@
 
 ---
 
+### 🌐 Meu Portfolio  
+
+<div align="center" style="margin-bottom: 20px;">
+  <a href="https://luccasilva2.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Visite%20Meu%20Portfolio-00F72F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack  
 
 #### Linguagens  
@@ -57,7 +67,6 @@
 |---------|--------|-------|------|
 | ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
 | ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
-| PORTFÓLIO | 🌐 Online | Web | [Visite Meu Portfolio](https://luccasilva2.github.io/portfolio) |
 
 ---
 
