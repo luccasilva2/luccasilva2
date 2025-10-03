@@ -57,6 +57,7 @@
 |---------|--------|-------|------|
 | ATIVO | 🚀 Lançado | React Native | [Download APK](https://drive.google.com/file/d/18WAxkq2Yq0i8exm6koIzor2R6DMZYFNA/view) |
 | ESTUDA.AI | 🛠️ Em desenvolvimento | Flutter | Em breve |
+| PORTFÓLIO | 🌐 Online | Web | [Visite Meu Portfolio](https://luccasilva2.github.io/portfolio) |
 
 ---
 
