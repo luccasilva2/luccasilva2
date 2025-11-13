@@ -8,8 +8,8 @@
 
 ### 🌐 Meu Portfolio  
 
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://luccasilva2.github.io/portfolio">
+<div align="center" style="margin-bottom: 20px; border-radius: 20%;">
+  <a href="https://luccasilva2.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Visite%20Meu%20Portfolio-00F72F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
